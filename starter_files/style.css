@@ -96,7 +96,8 @@ header{
   }
   #main_nav{
     display: flex;
-    justify-content: flex-end;
+    width: 70%;
+    padding-left: 260px;
     flex: 0 0 25%;
   }
   #main_nav a{
